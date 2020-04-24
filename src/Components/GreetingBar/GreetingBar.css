@@ -1,0 +1,44 @@
+.GreetingBarcontainer {
+  background-color: white;
+  padding-left: 0;
+  padding-top: 0px;
+  color: rgb(124, 124, 124);
+  width: 50%;
+  font-size: 14px;
+}
+.breadCrums {
+  width: 100%;
+}
+.breadCrumsText {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+.avatarImgDiv {
+  display: flex;
+  align-items: center;
+  padding-right: 25px;
+}
+.avatarImg {
+  width: 70px;
+  height: auto;
+  background-color: rgb(126, 141, 182);
+  border-radius: 50%;
+}
+.greetingArea {
+  display: flex;
+}
+.inactive {
+  color: #808080;
+}
+.active {
+  color: #353535;
+}
+.greetingText {
+  color: rgb(46, 46, 46);
+  font-weight: 800;
+  padding-bottom: 5px;
+  font-size: 18px;
+}
+.jobTitle {
+  line-height: 20px;
+}

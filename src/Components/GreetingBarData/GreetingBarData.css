@@ -1,0 +1,37 @@
+.GreetingBarDataContainerParent {
+  display: flex;
+  flex-direction: row;
+  width: 35%;
+  align-items: center;
+  padding-left: 5%;
+}
+.GreetingBarDataContainer {
+  padding-left: 20px;
+}
+.GreetingBarItems {
+  background-color: rgb(255, 255, 255);
+  width: 88%;
+  display: flex;
+  padding-left: 12%;
+  font-size: 14px;
+  margin-bottom: 2%;
+}
+.outOf {
+  color: #808080;
+  font-size: 25px;
+}
+.statistic {
+  text-align: end;
+  color: #353535;
+  font-size: 30px;
+  margin-bottom: 0;
+  margin-top: 2px;
+  font-weight: 600;
+}
+.headerText {
+  color: #808080;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  line-height: 40px;
+}

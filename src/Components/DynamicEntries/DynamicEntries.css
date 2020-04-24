@@ -1,0 +1,35 @@
+.dynamicContainer {
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.dynamicHeader {
+  border-bottom: 0.8px solid rgb(226, 226, 226);
+}
+.dynamicBar {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  padding-left: 20px;
+}
+.userPhoto {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+.imgAvatar {
+  width: 30px;
+  height: auto;
+  background-color: rgb(144, 211, 255);
+  border-radius: 50%;
+}
+.entryText {
+  color: #353535;
+  font-size: 14px;
+}
+.highlight {
+  color: #07c9c9;
+}
+.timeSinceText {
+  color: #d3d3d3;
+  font-size: 14px;
+}

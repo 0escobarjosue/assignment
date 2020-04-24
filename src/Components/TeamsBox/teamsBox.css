@@ -1,0 +1,42 @@
+.teamsBoxFullContainer {
+  margin-top: 10%;
+}
+.teamsBoxContainer {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: white;
+  column-gap: 0;
+}
+.teamsBox {
+  padding-top: 0;
+  margin: 0;
+}
+.teamsBoxItem {
+  display: flex;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.teamLogo {
+  width: 30px;
+}
+.teamLogoDiv {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.teamsBox {
+  background-color: rgb(255, 255, 255);
+}
+.teamsText {
+  color: #808080;
+  font-size: 14px;
+}
+.teamsBoxContainerHeader {
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+  margin-left: 2%;
+  margin-top: 30px;
+}
